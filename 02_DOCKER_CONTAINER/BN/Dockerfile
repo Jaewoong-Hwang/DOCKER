@@ -16,3 +16,4 @@ EXPOSE 8090
 
 # JAR 실행
 CMD ["java", "-jar", "app.jar"]
+
